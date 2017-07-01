@@ -10,6 +10,7 @@ nnn112358
   gmapping・cartographer・hectorslam・Autoware・・・    
 
 ---
+<div style="text-align: right;">
 
 ROS Wiki読んだり、Qiita読んだり、ROS勉強会に来たり、ゴニョゴニョやって、SLAMを動かせる用になってきた。
   
@@ -20,7 +21,8 @@ ROS Wiki読んだり、Qiita読んだり、ROS勉強会に来たり、ゴニョ�
 3.センサ選びが難しい。
 　⇔実機でやりたい場合、値段高い方が性能良さそう(Lidarだったら、視野角・距離・距離精度)。。。
 　　どれくらい違う？自作する場合、どこらへんを狙えば良い？ 
-  
+</div>
+
 ---
 
 
