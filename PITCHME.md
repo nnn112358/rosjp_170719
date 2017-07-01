@@ -30,17 +30,20 @@ ROS Wiki読んで、だんだんSLAMを動かせる用になってきた。  
 ---
 
 そこで、、、    
+
+---
+
 &nbsp;&nbsp;&nbsp;  こんな課題を解決する    
-&nbsp;&nbsp;&nbsp;  Simulatorを作成した。（本日の本題）  
+&nbsp;&nbsp;&nbsp;  シミュレータを作成した。
 （本日の本題）  
 
 ---
 
 
 
-・LidarのKinematic OnlyなSimulation、軽い。  
-・Lidarのパラメータを任意に設定できる。測定誤差(正規分布）を指定可。  
-・Odometoryの誤差を設定できる。測定誤差(正規分布）を指定可。  
+・Lidar想定したKinematic OnlyなSimulation、軽い。  
+・Lidarのパラメータを任意に設定できる。測定誤差(ガウスノイズ）を指定可。  
+・Odometoryの誤差を設定できる。測定誤差(ガウスノイズ）を指定可。  
 ・動的障害物を設定可。  
 
 ---
