@@ -12,7 +12,7 @@ nnn112358
 ---
 <div style="text-align: left;">
 
-ROS Wiki読んだりして、SLAMを動かせる用になってきた。
+ROS Wiki読んだりして、SLAMを動かせる用になってきた。  
   
 1.シミュレーション環境が重い。使いづらい。難しい。。。ツライ。  
 &nbsp;&nbsp;&nbsp;    ⇔ROS標準だとGazebo。  
