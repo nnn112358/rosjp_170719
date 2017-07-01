@@ -24,8 +24,8 @@ nnn112358
 ---
 
 <div style="text-align: left;">
-4.SLAMにとってのストレス条件を知りたい。
-&nbsp;&nbsp; ストレス条件とは？  
+4.シミュレーションで動いても実世界で動かない。   
+&nbsp;&nbsp; ストレス条件でちゃんと見れていない？   
 &nbsp;&nbsp;&nbsp; ・センサの制約(視野角・距離・距離精度)    
 &nbsp;&nbsp;&nbsp; ・オドメトリの誤差(滑り、タイヤ径、Encoder・Counterの精度)  
 &nbsp;&nbsp;&nbsp; ・人が一杯(邪魔)  
