@@ -40,6 +40,9 @@ nnn112358
 
 ---
 turtlesim/Gazebo以外の何か(仮)
+![robot](robot_sim.png)
+
+
 <div style="text-align: left;">
 
 ・Lidarセンサ想定したKinematic OnlyなSimulation、(たぶん)軽い。  
