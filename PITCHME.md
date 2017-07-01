@@ -14,7 +14,7 @@ nnn112358
 ROS Wiki読んで、だんだんSLAMを動かせる用になってきた。  
 <div style="text-align: left;">
 1.シミュレーション環境が重い。使いづらい。難しい。。。ツライ。  
-&nbsp;&nbsp;&nbsp;    ⇔ROS標準だとGazebo（汎用的な力学シミュレータ）。
+&nbsp;&nbsp;&nbsp;    ⇔ROSではGazebo[汎用的な力学シミュレータ]  
 2.SLAMのパラメータ調整が難しい。  
 &nbsp;&nbsp;&nbsp;  　⇔パラメータが一杯。どれがどう効いているのか、よくわからない。    
 3.センサが高い。  
