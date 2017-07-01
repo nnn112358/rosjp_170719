@@ -27,7 +27,8 @@ nnn112358
 &nbsp;&nbsp;&nbsp; ・センサの制約(視野角・距離・距離精度)    
 &nbsp;&nbsp;&nbsp; ・オドメトリの誤差(滑り、タイヤ径、Encoder分解能)  
 &nbsp;&nbsp;&nbsp; ・人が一杯(邪魔)  
-  
+</div>
+
 ---
 
 そこで、、、    
@@ -39,20 +40,24 @@ nnn112358
 
 ---
 ##TurtuleSim・Gazeboでない何か(仮)
+<div style="text-align: left;">
 
 ・Lidarセンサ想定したKinematic OnlyなSimulation、(たぶん)軽い。  
 ・Lidarのパラメータを任意に設定できる。
 ・Odometoryの誤差を設定できる。
 ・動的障害物を設定可。  
+</div>
 
 ---
 
 
 アルゴリズム  
+<div style="text-align: left;">
  ・Lidarを線分で表現。壁・障害物を矩形で設定  
 　・線分と線分との交点をもとめる・  
 　・交点とロボットとの距離からLidarをシミュレーションする。  
 　・Lidar・オドメトリには正規分布に従って誤差をのせる。  
+</div>
 
 ---
 
@@ -62,5 +67,11 @@ nnn112358
 
 　線  
 　cartographerはLoopCloserが入っているので、  
+
+---
+
+
+
+
 
 ---
