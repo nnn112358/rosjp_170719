@@ -53,6 +53,11 @@ turtlesim/Gazebo以外の何か(仮)
 
 ![robot](robot_sim.png)
 
+
+---
+
+![robot_video](robot_sim_video.mp4)
+
 ---
 
 
