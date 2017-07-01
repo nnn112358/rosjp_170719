@@ -1,3 +1,6 @@
+ROSJP勉強会　170719
+
+
 ROSを使うきっかけ 
 
 →いろいろなSLAMが使える、試してみたい。
@@ -6,6 +9,7 @@ ROSを使うきっかけ
  gmapping・cartographer・hectorslam・・・
 
 -----------------------------------------------
+
 ROS Wiki読んで、SLAMを動かせる用になった。
 
 ・Lidarが高い。
