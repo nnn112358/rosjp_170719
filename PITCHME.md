@@ -11,7 +11,7 @@ nnn112358
 
 ---
 
-ROS Wiki読んで、だんだんSLAMを動かせる用になってきた。  
+色々調べて、だんだんSLAMを動かせる用になってきた。  
 <div style="text-align: left;">
 1.シミュレーション環境が重い。使いづらい。難しい。。。ツライ。  
 &nbsp;&nbsp;&nbsp;    ⇔ROSではGazebo[汎用的な力学シミュレータ]  
