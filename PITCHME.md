@@ -11,10 +11,10 @@ nnn112358
 
 ---
 
-ROS Wiki読んだりして、SLAMを動かせる用になってきた。  
+ROS Wiki読んで、だんだんSLAMを動かせる用になってきた。  
 <div style="text-align: left;">
 1.シミュレーション環境が重い。使いづらい。難しい。。。ツライ。  
-&nbsp;&nbsp;&nbsp;    ⇔ROS標準だとGazebo。  
+&nbsp;&nbsp;&nbsp;    ⇔ROS標準だとGazebo（汎用的な力学シミュレータ）。
 2.SLAMのパラメータ調整が難しい。  
 &nbsp;&nbsp;&nbsp;  　⇔パラメータが一杯。どれがどう効いているのか、よくわからない。    
 3.センサが高い。  
@@ -23,13 +23,18 @@ ROS Wiki読んだりして、SLAMを動かせる用になってきた。
 
 ---
 
-
-そこで、、、
-　こんなの課題を解決する
-　Simulatorを作成した。色々、試してみる。
-
+<div style="text-align: left;">
+4.SLAMにとってのストレス条件で評価しないと意味がない。
+  ストレス条件とは？人が一杯。
 
 ---
+
+そこで、、、  
+&nbsp;&nbsp;&nbsp;  こんな課題を解決する  
+&nbsp;&nbsp;&nbsp;  Simulatorを作成することにした。  
+
+---
+
 
 
 ・LidarのKinematic OnlyなSimulation、軽い。
