@@ -39,7 +39,7 @@ nnn112358
 （本日の本題）  
 
 ---
-##TurtuleSim・Gazeboでない何か(仮)
+##Gazebo以外の何か(仮)
 <div style="text-align: left;">
 
 ・Lidarセンサ想定したKinematic OnlyなSimulation、(たぶん)軽い。  
