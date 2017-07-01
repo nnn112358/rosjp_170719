@@ -10,7 +10,7 @@ nnn112358
   gmapping・cartographer・hectorslam・Autoware・・・    
 
 ---
-<div style="text-align: right;">
+<div style="text-align: left;">
 
 ROS Wiki読んだり、Qiita読んだり、ROS勉強会に来たり、ゴニョゴニョやって、SLAMを動かせる用になってきた。
   
