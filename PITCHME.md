@@ -29,9 +29,10 @@ ROS Wiki読んで、だんだんSLAMを動かせる用になってきた。  
 
 ---
 
-そこで、、、  
-&nbsp;&nbsp;&nbsp;  こんな課題を解決する  
-&nbsp;&nbsp;&nbsp;  Simulatorを作成することにした。  
+そこで、、、    
+&nbsp;&nbsp;&nbsp;  こんな課題を解決する    
+&nbsp;&nbsp;&nbsp;  Simulatorを作成した。（本日の本題）  
+（本日の本題）  
 
 ---
 
