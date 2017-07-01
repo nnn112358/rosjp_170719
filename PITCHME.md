@@ -43,8 +43,8 @@ nnn112358
 ##TurtuleSim・Gazeboでない何か(仮)
 
 ・Lidarセンサ想定したKinematic OnlyなSimulation、(たぶん)軽い。  
-・Lidarのパラメータを任意に設定できる。測定誤差(ガウスノイズ）を指定可。  
-・Odometoryの誤差を設定できる。測定誤差(ガウスノイズ）を指定可。  
+・Lidarのパラメータを任意に設定できる。
+・Odometoryの誤差を設定できる。
 ・動的障害物を設定可。  
 
 ---
