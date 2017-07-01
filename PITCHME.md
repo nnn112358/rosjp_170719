@@ -7,8 +7,9 @@ nnn112358
 ###ROSを使うきっかけ 
 
  →いろいろなSLAMが使える、試してみたい。
-　例えば、LidarSLAMだと、
-
+ 
+　例えば、
+ 
  gmapping・cartographer・hectorslam・・・
 
 ---
