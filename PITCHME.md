@@ -40,16 +40,14 @@ nnn112358
 
 ---
 turtlesim/Gazebo以外の何か(仮)
-![robot](robot_sim.png)
-
-
 <div style="text-align: left;">
-
-・Lidarセンサ想定したKinematic OnlyなSimulation、(たぶん)軽い。  
-・Lidarのパラメータを任意に設定できる。
-・Odometoryの誤差を設定できる。
-・動的障害物を設定可。  
+######・Lidarセンサ想定したKinematic OnlyなSimulation、(たぶん)軽い。  
+######・Lidarのパラメータを任意に設定できる。
+######・Odometoryの誤差を設定できる。
+######・動的障害物を設定可。  
 </div>
+
+![robot](robot_sim.png)
 
 ---
 
