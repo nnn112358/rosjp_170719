@@ -10,10 +10,9 @@ nnn112358
   gmapping・cartographer・hectorslam・Autoware・・・    
 
 ---
-<div style="text-align: left;">
 
 ROS Wiki読んだりして、SLAMを動かせる用になってきた。  
-  
+<div style="text-align: left;">
 1.シミュレーション環境が重い。使いづらい。難しい。。。ツライ。  
 &nbsp;&nbsp;&nbsp;    ⇔ROS標準だとGazebo。  
 2.SLAMのパラメータ調整が難しい。  
