@@ -4,12 +4,15 @@ nnn112358
 
 ---
 
+|||
+|![robot](SLAM_image.png)|ROSを使うきっかけ→スゴイのSLAMを試してみたい。 gmapping・cartographer・hectorslam・Autoware・・|
 
+
+---
 <table >
 　<tr>
 　　<th>
-![robot](SLAM_image.png)
-
+![robot](SLAM_image.png)|
   </th>
 　　<th>
   ROSを使うきっかけ   
