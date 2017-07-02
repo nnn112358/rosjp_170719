@@ -4,6 +4,22 @@ nnn112358
 
 ---
 
+
+<frameset cols="200,*">
+
+<frame src="example_a.html" name="frame1" title="左フレーム">
+<frame src="example_b.html" name="frame2" title="右フレーム">
+
+<noframes>
+<body>
+<p>フレームの代替内容</p>
+</body>
+</noframes>
+
+</frameset>
+
+---
+
 ROSを使うきっかけ   
  →スゴイのSLAMを試してみたい。  
   gmapping・cartographer・hectorslam・Autoware・・・  
