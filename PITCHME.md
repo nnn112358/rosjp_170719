@@ -8,7 +8,7 @@ nnn112358
  →スゴイのSLAMを試してみたい。  
   gmapping・cartographer・hectorslam・Autoware・・・
   
-  ![robot](SLAM_image.png)
+  ![robot1](SLAM_image.png)
 
 
 ---
