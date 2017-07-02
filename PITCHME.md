@@ -9,7 +9,8 @@ nnn112358
  　例えば、  
   gmapping・cartographer・hectorslam・Autoware・・・  
   
-![SLAM_image](SLAM_image.png =500x)		
+
+<img src="SLAM_image.png" width="500">
 
 ---
 
