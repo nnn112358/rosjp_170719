@@ -8,7 +8,7 @@ nnn112358
 <table >
 　<tr>
 　　<th>
-  <img src="SLAM_image.png" width="500">
+![robot](SLAM_image.png)
 
   </th>
 　　<th>
@@ -21,6 +21,7 @@ nnn112358
 </table>
 
 ---
+  <img src="SLAM_image.png" width="500">
 
   
 
