@@ -8,7 +8,8 @@ nnn112358
  →スゴイOpenSourceのSLAMが色々使える、試してみたい。  
  　例えば、  
   gmapping・cartographer・hectorslam・Autoware・・・    
-![SLAM_image](SLAM_image.png&size=auto 50%)
+---?image=SLAM_image.png&size=50% 50%
+
 
 ---
 
