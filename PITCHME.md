@@ -5,7 +5,7 @@ nnn112358
 ---
 
 ROSを使うきっかけ   
- →スゴイOpenSourceのSLAMが色々使える、試してみたい。  
+ →スゴイのSLAMを試してみたい。  
   gmapping・cartographer・hectorslam・Autoware・・・  
 <img src="SLAM_image.png" width="500">
 
