@@ -5,18 +5,20 @@ nnn112358
 ---
 
 
-<frameset cols="200,*">
-
-<frame src="example_a.html" name="frame1" title="左フレーム">
-<frame src="example_b.html" name="frame2" title="右フレーム">
-
-<noframes>
-<body>
-<p>フレームの代替内容</p>
-</body>
-</noframes>
-
-</frameset>
+<table border="1">
+　<tr>
+　　<th>日付</th>
+　　<th>集合場所</th>
+　</tr>
+　<tr>
+　　<td>2016/4/8</td>
+　　<td>渋谷</td>
+　</tr>
+　<tr>
+　　<td>2016/5/20</td>
+　　<td>原宿</td>
+　</tr>
+</table>
 
 ---
 
