@@ -4,31 +4,12 @@ nnn112358
 
 ---
 
-https://github.com/nnn112358/rosjp_170719/blob/master/SLAM_image.png
-|||
-|---|---|
-| ![robot](https://github.com/nnn112358/rosjp_170719/blob/master/SLAM_image.png) |ROSを使うきっかけ→スゴイのSLAMを試してみたい。 gmapping・cartographer・hectorslam・Autoware・・|
-
-
----
-<table >
-　<tr>
-　　<th>
-![robot](SLAM_image.png)|
-  </th>
-　　<th>
   ROSを使うきっかけ   
  →スゴイのSLAMを試してみたい。  
   gmapping・cartographer・hectorslam・Autoware・・・
   
-  </th>
-　</tr>
-</table>
+  ![robot](SLAM_image.png)
 
----
-  <img src="SLAM_image.png" width="500">
-
-  
 
 ---
 
