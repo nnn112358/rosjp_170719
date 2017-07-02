@@ -5,27 +5,24 @@ nnn112358
 ---
 
 
-<table border="1">
+<table >
 　<tr>
-　　<th>日付</th>
-　　<th>集合場所</th>
-　</tr>
-　<tr>
-　　<td>2016/4/8</td>
-　　<td>渋谷</td>
-　</tr>
-　<tr>
-　　<td>2016/5/20</td>
-　　<td>原宿</td>
+　　<th>
+  <img src="SLAM_image.png" width="500">
+
+  </th>
+　　<th>
+  ROSを使うきっかけ   
+ →スゴイのSLAMを試してみたい。  
+  gmapping・cartographer・hectorslam・Autoware・・・
+  
+  </th>
 　</tr>
 </table>
 
 ---
 
-ROSを使うきっかけ   
- →スゴイのSLAMを試してみたい。  
-  gmapping・cartographer・hectorslam・Autoware・・・  
-<img src="SLAM_image.png" width="500">
+  
 
 ---
 
