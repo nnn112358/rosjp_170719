@@ -57,7 +57,7 @@ turtlesim/Gazebo以外の何か(仮)
 
 ---
 
-![robot_video](robot_sim_video.mp4)
+![robot_video](robot_slam_video.mp4)
 
 ---
 
