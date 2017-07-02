@@ -41,7 +41,10 @@ nnn112358
 
 ---
 
-turtlesim/Gazebo以外の何か(仮)
+turtlesim Next(仮)
+![robot_video](robot_slam_video.mp4)
+
+---
 
 <div style="text-align: left;">
 
@@ -54,13 +57,7 @@ turtlesim/Gazebo以外の何か(仮)
 
 ![robot](robot_sim.png)
 
-
 ---
-
-![robot_video](robot_slam_video.mp4)
-
----
-
 
 アルゴリズム  
 <div style="text-align: left;">
