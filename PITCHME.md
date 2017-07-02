@@ -9,7 +9,7 @@ nnn112358
  　例えば、  
   gmapping・cartographer・hectorslam・Autoware・・・  
   
-![SLAM_image](SLAM_image.png)		
+![SLAM_image](SLAM_image.png =500x)		
 
 ---
 
