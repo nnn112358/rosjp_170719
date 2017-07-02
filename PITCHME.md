@@ -9,8 +9,7 @@ nnn112358
  　例えば、  
   gmapping・cartographer・hectorslam・Autoware・・・  
   
----?image=SLAM_image.png&size=50% 50%
-
+![SLAM_image](SLAM_image.png=250x)		
 
 ---
 
