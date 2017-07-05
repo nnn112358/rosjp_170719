@@ -54,13 +54,12 @@ turtlesim Next(仮)
   
 ![robot3](Lidar_cal3.png)
 
-----
+---
 
 ![robot100](Lidar_cal4.png)
 
 ---
 
 ![RESULT](RESULT.png)
-
 
 ---
