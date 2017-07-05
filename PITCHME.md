@@ -60,12 +60,7 @@ turtlesim Next(仮)
 ---
 
 アルゴリズム  
-<div style="text-align: left;">
- ・Lidarを線分で表現。壁・障害物を矩形で設定  
-　・線分と線分との交点をもとめる・  
-　・交点とロボットとの距離からLidarをシミュレーションする。  
-　・Lidar・オドメトリには正規分布に従って誤差をのせる。  
-</div>
+![robot](Lidar_cal2.png)
 
 ---
 
