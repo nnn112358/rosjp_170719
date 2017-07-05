@@ -56,14 +56,9 @@ turtlesim Next(仮)
 
 ----
 
-試してみた結果  
-評価関数  
- 
+![robot](Lidar_cal4.tif)
 
 ---
-
-
-
 
 
 ---
