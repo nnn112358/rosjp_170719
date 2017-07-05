@@ -17,7 +17,7 @@ nnn112358
 　→色々、課題が出てくる。  
 <div style="text-align: left;">
 1.シミュレーション環境が重い/使いづらい。  
-&nbsp;&nbsp;&nbsp;    →ROSではGazebo 　
+&nbsp;&nbsp;&nbsp;    →ROSではGazebo   
 2.SLAMのパラメータ調整が一杯。  
 </div>
 
