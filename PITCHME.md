@@ -60,6 +60,7 @@ turtlesim Next(仮)
 
 ---
 
+cartographerでLidar・Odometoryのパラメータを振りながら試してみる。
 ![RESULT](RESULT.png)
 
 
