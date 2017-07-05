@@ -17,18 +17,18 @@ nnn112358
 　→色々、課題が出てくる。  
 <div style="text-align: left;">
 1.シミュレーション環境が重い/使いづらい。  
-&nbsp;&nbsp;&nbsp;    →ROSではGazebo[汎用的な力学シミュレータ]  　
-2.SLAMのパラメータ調整が一杯/難しい。  
+&nbsp;&nbsp;&nbsp;    →ROSではGazebo 　
+2.SLAMのパラメータ調整が一杯。  
 </div>
 
 ---
 
 <div style="text-align: left;">
 3.シミュレーションで動いても実世界で動かない。   
-&nbsp;&nbsp;&nbsp;  　⇔実世界とシミュレーションの違い？   
 &nbsp;&nbsp;&nbsp; ・センサの制約(視野角・距離・距離精度)    
 &nbsp;&nbsp;&nbsp; ・オドメトリの誤差(滑り、タイヤ径、Encoder分解能)  
 &nbsp;&nbsp;&nbsp; ・人が一杯(邪魔)  
+&nbsp;&nbsp;&nbsp;  　⇔実世界とシミュレーションの違い
 </div>
 
 ---
