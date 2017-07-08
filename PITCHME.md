@@ -27,6 +27,7 @@ nnn112358
 &nbsp;&nbsp;&nbsp;・センサ誤差(Lidar視野角,計測精度/オドメトリ誤差)<br>
 &nbsp;&nbsp;&nbsp;・人が一杯(邪魔)<br>
 </div>
+![around_person](around_person.gif)
 
 ---
 
