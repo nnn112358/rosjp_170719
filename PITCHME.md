@@ -51,12 +51,16 @@ Lidarとodometoryに誤差を付与。</font>
 
 ---
 
-<font size="6">アルゴリズム<br>
-Lidarとodometoryに誤差を付与。</font>
+<font size="6">rqt_graph<br>
+cmd_vei(twist)/move_onst(twist)をInput
+Scan(LaserScan)/odom(odom)/td(odom→base_link)をOutput
+</font>
 ![robot3](Lidar_cal3.png)
 
 ---
 
+<font size="6">rqt_graph<br>
+LAMの自己位置と真値を比較できる</font>
 ![robot100](Lidar_cal4.png)
 
 ---
