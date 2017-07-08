@@ -72,12 +72,12 @@ LAMの自己位置と真値を比較できる</font>
 </font>
 
 ---
-
+<div style="text-align: left;">
 Future works
 ・シミュレータのバイナリ化と公開。
 ・parameter Self-tuning。
 ![Future](Future.png)
-
+</div>
 ---
 
 ![thanks](thanks.gif)
