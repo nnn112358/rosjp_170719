@@ -25,7 +25,7 @@ nnn112358
 
 <div style="text-align: left;">
 2.実世界の外乱をシミュレーションに入れたい。<br> 
-&nbsp;&nbsp;&nbsp;・センサ誤差(視野角・距離・距離精度)/オドメトリ誤差(タイヤの滑り・潰れ)<br>
+&nbsp;&nbsp;&nbsp;・センサ誤差(Lidar視野角・距離精度)/オドメトリ誤差(タイヤ滑り)<br>
 &nbsp;&nbsp;&nbsp;・人が一杯(邪魔)<br>
 </div>
 <img src="around_person.gif" alt="" title="">
