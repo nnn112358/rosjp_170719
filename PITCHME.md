@@ -59,7 +59,7 @@ turtlesim Next(仮)
 
 ---
 
-<font size="2">cartographerでLidar・Odometoryのパラメータを振りながら試してみる</font>
+<font size="5">cartographerでLidar・Odometoryのパラメータを振りながら試してみる</font>
 
 ![RESULT](RESULT.png)
 
