@@ -30,7 +30,7 @@ nnn112358
 &nbsp;&nbsp;&nbsp; ・人が一杯(邪魔)  
 &nbsp;&nbsp;&nbsp;  　⇔実世界とシミュレーションの違い
 </div>
-![around_person](around_person.gif)
+<img src="around_person.gif" alt="" title="">
 
 ---
 
