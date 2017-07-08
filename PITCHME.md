@@ -45,11 +45,14 @@ simulator(仮)
 
 ---
 
-アルゴリズム  
+<font size="6">アルゴリズム<br>
+Lidarとodometoryに誤差を付与。</font>
 ![robot](Lidar_cal2.png)
 
 ---
-  
+
+<font size="6">アルゴリズム<br>
+Lidarとodometoryに誤差を付与。</font>
 ![robot3](Lidar_cal3.png)
 
 ---
