@@ -20,8 +20,7 @@ nnn112358
    シミュレーションが重い/使いづらい。<br> 
 &nbsp;&nbsp;&nbsp;    →Gazebo <br>   
 </div>
-<img src="d7b5643a-76bd-6bc5-afac-cf79167eb09d.png	
-" alt="" title="">
+<img src="d7b5643a-76bd-6bc5-afac-cf79167eb09d.png" alt="" title="">
 
  
 
