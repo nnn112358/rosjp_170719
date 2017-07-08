@@ -40,7 +40,7 @@ nnn112358
 
 ---
 
-turtlesim Next(仮)
+simulator(仮)
 ![robot_video](robot_slam_video.mp4)
 
 ---
