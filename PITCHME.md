@@ -67,7 +67,7 @@ turtlesim Next(仮)
 Future
 ・シミュレータのバイナリ化と配布。
 ・自動パラメータチューニング。
-　![Future](Future.png)
+![Future](Future.png)
 
 ---
 
