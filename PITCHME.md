@@ -13,16 +13,11 @@ nnn112358
 
 ---
 <div style="text-align: left;">
-やり方を調べて、SLAMはとりあえず動いた。   
-　→色々、課題が出てくる。  
-  
+やり方を調べて、SLAMはとりあえず動いた。→色々、課題が出てくる。  
 1. 実機なしで作り込みたい<br> 
-   シミュレーションが重い/使いづらい。<br> 
-&nbsp;&nbsp;&nbsp;    →Gazebo <br>   
-</div>
+   シミュレーションが重い/使いづらい→Gazebo <br>   
 <img src="d7b5643a-76bd-6bc5-afac-cf79167eb09d.png" alt="" title="">
-
- 
+ </div>
 
 ---
 
