@@ -35,8 +35,8 @@ nnn112358
 
 ---
 
-##こんな課題を解決するシミュレータ！
-（本日の本題）  
+##こんな課題を解決するシミュレータを作成した。「
+（本日の本題）  
 
 ---
 
@@ -58,15 +58,17 @@ turtlesim Next(仮)
 
 ---
 
-<font size="5">cartographerでLidar・Odometoryのパラメータを振りながら試してみる</font>
-
 ![RESULT](RESULT.png)
+<font size="5">cartographerでLidar・Odometoryのパラメータを振りながら試してみた<br>
+
+
+</font>
 
 ---
 
-Future
-・シミュレータのバイナリ化と配布。
-・自動パラメータチューニング。
+Future works
+・シミュレータのバイナリ化と公開。
+・parameter Self-tuning。
 ![Future](Future.png)
 
 ---
