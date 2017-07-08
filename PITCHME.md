@@ -59,7 +59,7 @@ cmd_vei(twist)/move_onst(twist)をInput,Scan(LaserScan)/odom(odom)/tf(odom→bas
 ---
 
 <font size="6">rqt_graph<br>
-LAMの自己位置と真値を比較できる</font>
+SLAMの自己位置推定の軌跡と真値の軌跡を比較できる</font>
 ![robot100](Lidar_cal4.png)
 
 ---
