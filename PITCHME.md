@@ -17,7 +17,7 @@ nnn112358
 1. 実機なしで作り込みたい<br> 
    シミュレーションが重い/使いづらい→Gazebo <br>
  </div>
-<img src="d7b5643a-76bd-6bc5-afac-cf79167eb09d.png" alt="" >
+<img src="gazebo.png" alt="" >
 
 ---
 
