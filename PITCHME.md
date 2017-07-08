@@ -24,8 +24,8 @@ nnn112358
 
 <div style="text-align: left;">
 ####2.実世界の外乱をシミュレーションに入れたい。<br> 
-<font size="5">・センサ誤差(Lidar視野角,計測精度)/オドメトリ誤差(タイヤ滑り)</font><br>
-<font size="5">・・人が一杯(邪魔)</font><br>
+<font size="5">・センサ誤差(Lidar視野角,計測精度)/オドメトリ誤差(タイヤ滑り)</font>
+<font size="5">・・人が一杯(邪魔)</font>
 </div>
 ![around_person](around_person.gif)
 
