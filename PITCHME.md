@@ -58,7 +58,7 @@ turtlesim Next(仮)
 ![robot100](Lidar_cal4.png)
 
 ---
-<span style="font-size: 50%>cartographerでLidar・Odometoryのパラメータを振りながら試してみる</span>	
+######cartographerでLidar・Odometoryのパラメータを振りながら試してみる
 。
 ![RESULT](RESULT.png)
 
