@@ -15,8 +15,7 @@ nnn112358
 <div style="text-align: left;">
 やり方を調べて、SLAMはとりあえず動いた。   
 　→色々、課題が出てくる。  
- 
-<div style="text-align: left;">
+  
 1. 実機なしで作り込み  
    シミュレーションが重い/使いづらい。    
 &nbsp;&nbsp;&nbsp;    →Gazebo   
