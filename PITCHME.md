@@ -64,8 +64,9 @@ SLAMの自己位置推定の軌跡と真値の軌跡を比較できる</font>
 
 ---
 
-![RESULT](RESULT.png)
-<font size="5">cartographerでLidar・Odometoryのパラメータを振りながら試してみた<br>
+![RESULT](slam_result.png)
+<font size="5">gmapping/cartographerでLidar・Odometoryのパラメータ
+を振りながら、SLAMの自己位置推定と真値との差分を求めてみた。<br>
 
 
 </font>
