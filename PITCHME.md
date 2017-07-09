@@ -74,14 +74,15 @@ SLAMの自己位置推定の軌跡と真値の軌跡を比較できる</font>
 
 ---
 <div style="text-align: left;">
-
-・OriginalのシミュレータでSensorとSLAMの性能評価を行った。
-
+<font size="6">
+・シミュレータを作成<br>
+・実機レスでSensorとSLAMの性能評価ができる/軽い。
+・センサー誤差・移動物体といった、外乱をいれることができる。
 Future works<br>
 ・シミュレータのpackage化と公開。<br>
 ・parameterのSelf-Tuning<br>
 ![Future](Future.png)
-</div>
+</font></div>
 ---
 
 ![thanks](thanks.gif)
