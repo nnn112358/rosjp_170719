@@ -55,15 +55,6 @@ Lidarとodometoryに誤差を付与。</font>
 SLAMの自己位置推定の軌跡と真値の軌跡を比較できる</font>
 <img src="Lidar_cal4.png" alt="">
 
----
-
-<div style="text-align: left;">
-![RESULT](slam_result.png)
-<font size="5">gmapping/cartographerでLidar・Odometoryのパラメータ<br>
-を振りながら、SLAMの自己位置推定と真値との差分を求めてみた。<br>
-
-
-</font></div>
 
 ---
 <div style="text-align: left;">
