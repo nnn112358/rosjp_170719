@@ -16,7 +16,7 @@ nnn112358
 やり方を調べて、SLAMはとりあえず動いた。<br>
 →色々、課題が出てくる。  
 1. 実機なしで作り込みたい、試したい<br> 
-<font size="7">シミュレーションが重い/使いづらい/ 怖い→Gazebo <br></font>
+<font size="5">シミュレーションが重い/使いづらい/ 怖い→Gazebo <br></font>
  </div>
 <img src="gazebo.png" alt="" >
 
