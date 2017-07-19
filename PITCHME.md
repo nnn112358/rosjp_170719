@@ -48,13 +48,6 @@ nnn112358
 Lidarとodometoryに誤差を付与。</font>
 ![robot](Lidar_cal2.png)
 
----
-<div style="text-align: left;">
-
-<font size="6">rqt_graph<br>
-cmd_vei(twist)/move_onst(twist)をInput,Scan(LaserScan)/odom(odom)/tf(odom→base_link)をOutput
-</font></div>
-![robot3](Lidar_cal3.png)
 
 ---
 
