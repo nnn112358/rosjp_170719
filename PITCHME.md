@@ -79,9 +79,5 @@ SLAMの自己位置推定の軌跡と真値の軌跡を比較できる</font>
 https://github.com/nnn112358/robotics_Lidar_sim2d
 
 ---
-![thanks](thanks.gif)
-
-
----
 
 
