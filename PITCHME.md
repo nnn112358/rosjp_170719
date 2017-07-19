@@ -35,12 +35,13 @@ nnn112358
 
 ---
 
-##こんな課題を解決するシミュレータを作成する(途中。)
+##こんな課題を解決するシミュレータを作成.
 （本日の本題）  
 
 ---
 [simulator(仮)](https://github.com/nnn112358/robotics_Lidar_sim2d)
 ![robot_video](robot_slam_video.mp4)
+https://github.com/nnn112358/robotics_Lidar_sim2d		
 
 ---
 
@@ -65,11 +66,9 @@ SLAMの自己位置推定の軌跡と真値の軌跡を比較できる</font>
 -Future work<br>
 ・シミュレータのpackage化と公開。<br>
 </font></div>
----
 
 ---
 
-https://github.com/nnn112358/robotics_Lidar_sim2d		
 
 ----
 
